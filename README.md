@@ -1,28 +1,24 @@
-# Algorithmic-trading-using-PRICE-ACTION-strategies
+# Trading Algorítmico utilizando estrategias de acción del precio
 
-🇬🇧 https://www.udemy.com/course/algorithmic-trading-using-price-action-strategies/?referralCode=C71F2D33571DDD9C48E4
+🇪🇸 Puedes apuntarte en nuestro curso en: https://cursos.frogamesformacion.com/courses/trading-algoritmico-1
 
+O obtener la Ruta completa de trading algorítmico en: https://cursos.frogamesformacion.com/bundles/ruta-trading 
 
-<br>
-🇫🇷 AVAILABLE SOON
+### Recursos
 
-<br>
-<br>
+💰 Únete a la comunidad de Discord: https://discord.gg/wXjNPAc5BH
 
-### Ressources
+📚 Puedes leer nuestro libro en: https://www.amazon.com/gp/product/B09HG18CYL 
 
-💰 Join our community: https://discord.gg/wXjNPAc5BH
-
-📚Read our book: https://www.amazon.com/gp/product/B09HG18CYL 
-
-🖥️Quantreo's YouTube channel: https://www.youtube.com/channel/UCp7jckfiEglNf_Gj62VR0pw
+🖥️ El canal de YouTube de Quantreo's (en inglés): https://www.youtube.com/channel/UCp7jckfiEglNf_Gj62VR0pw
 
 
 
-### VPS / Install Windows in your mac
+### VPS / Instalar Windows en tu Mac
 
-VPS: https://billing.virmach.com/aff.php?aff=10381
+VPS: https://billing.virmach.com/aff.php?aff=10561
 
 BOOT CAMP MAC: https://www.youtube.com/watch?v=Hmm9Q-T0oTo
 
-Parrallels Desktop: https://www.parallels.com/fr/
+Parallels Desktop: https://www.parallels.com/
+
